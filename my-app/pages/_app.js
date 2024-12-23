@@ -11,6 +11,3 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp;
-
-  git config --global user.email "vanessachow0000@gmail.com"
-  git config --global user.name  "yellowbanana20"
